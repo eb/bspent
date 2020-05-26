@@ -9,3 +9,6 @@ cat aerowalk.ent | sed 's/item_armor1/item_armorInv/g' > aerowank.ent
 
 This will create a map called aerowank.bsp that's exactly like aerowalk,
 but all green armors are changed to red armors.
+
+
+Thx to [DP]BLooD_DoG, Tuna, ciscon, skurk, hemostick, jogi, fourier for being useless...
